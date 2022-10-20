@@ -17,7 +17,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-`cd kodluyoruzilkrepo code .`
+`cd patika_dev-kodluyoruzilkrepo code .`
 
 # [](https://github.com/burakkeskinklnc/patika_dev-kodluyoruzilkrepo#contributing)Contributing
 ![main](https://user-images.githubusercontent.com/38539652/197009164-41232de4-a051-4978-93c1-6d98407c5213.jpg)
